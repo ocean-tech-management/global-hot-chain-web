@@ -45,7 +45,7 @@
             <div class="row align-items-center justify-content-md-end">
                 <div class="col-12 col-xl-8 col-lg-7 col-sm-8 text-center">
                     <span
-                        class="text-white title-large alt-font font-weight-300 z-index-9 position-relative d-inline-block letter-spacing-4px">{{ __('landing.investment_relation') }}</span>
+                        class="text-white title-large alt-font font-weight-300 z-index-9 position-relative d-inline-block letter-spacing-4px">{{ __('landing.product_and_r_and_d') }}</span>
                 </div>
             </div>
         </div>
