@@ -29,9 +29,16 @@
         color: #ee9134 !important;
     }
 
-    @media (max-width: 991px) {
+    @media (max-width: 1200px) {
         .top-banner{
-            height: 740px;
+            height: 600px;
+        }
+
+    }
+
+    @media (max-width: 600px) {
+        .top-banner{
+            height: 500px;
         }
 
     }
@@ -48,7 +55,7 @@
                 <div class="col-10 col-lg-7 col-sm-7">
                     <div class="position-relative ">
                         <span
-                            class=" text-extra-large alt-font line-height-20px z-index-9 position-relative d-inline-block letter-spacing-4px text-white">{{ __('landing.self_love_and_confidence') }}</span>
+                            class=" text-extra-large alt-font line-height-20px z-index-9 position-relative d-inline-block letter-spacing-4px text-white">{{ __('landing.ghc') }}</span>
                     </div>
                     <div class="position-relative ">
                         <span

@@ -29,9 +29,16 @@
         color: #ee9134 !important;
     }
 
-    @media (max-width: 991px) {
+     @media (max-width: 1200px) {
         .top-banner{
-            height: 740px;
+            height: 600px;
+        }
+
+    }
+
+    @media (max-width: 600px) {
+        .top-banner{
+            height: 400px;
         }
 
     }
