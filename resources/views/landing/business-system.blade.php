@@ -121,7 +121,7 @@
     </section>  
 
     <section class="bg-light-yellow overlap-height wow animate__fadeIn" style="background: #fff5ef;">
-        <span class="text-center title-small alt-font text-primary font-weight-300 d-block margin-50px-bottom letter-spacing-3px">{{ __('landing.ghc_group_value') }}</span>
+        <span class="text-center title-small alt-font text-primary font-weight-300 d-block margin-50px-bottom letter-spacing-3px">{{ __('landing.ghc_partners') }}</span>
         <div class="padding-twelve-lr xl-padding-five-lr lg-padding-two-lr xs-no-padding-lr">
             <div class="container-fluid">
                 <div class="row justify-content-center">
