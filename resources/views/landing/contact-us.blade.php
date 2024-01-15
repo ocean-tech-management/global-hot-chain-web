@@ -81,10 +81,10 @@
                                     <img src="{{ asset('landing/images/phone.svg') }}" alt="" class="mr-3">
                                     <span class="text-primary">{{ __('landing.support_hotline') }}</span>
                                 </div>
-                                <div class="d-flex">
+                                {{-- <div class="d-flex">
                                     <img src="{{ asset('landing/images/phone.svg') }}" alt="" class="mr-3" style="opacity:0">
                                     XXXXXXXXXXXXx
-                                </div>
+                                </div> --}}
                             </div>
                             <div class="d-flex flex-column mb-4">
                                 <div class="d-flex">
