@@ -33,19 +33,19 @@
                 <div class="col-md-4 p-4" >
                     <div class="shadow-lg bg-white p-5">
                         <span class="text-center alt-font text-primary font-weight-500 d-block margin-20px-bottom" style="font-size:22px;">{{ __("landing.job_offer") }}</span>
-                        <span class="text-center alt-font font-weight-300 d-block mb-3" style="font-size:16px">joinus@globalhotchain.asia</span>
+                        <span class="text-center alt-font font-weight-300 d-block mb-3" style="font-size:16px">joinus@globalhotchain.com</span>
                     </div>
                 </div>
                 <div class="col-md-4 p-4" >
                     <div class="shadow-lg bg-white p-5">
                         <span class="text-center alt-font text-primary font-weight-500 d-block margin-20px-bottom" style="font-size:22px;">{{ __("landing.supplier_cooperation") }}</span>
-                        <span class="text-center alt-font font-weight-300 d-block mb-3" style="font-size:16px">partners@globalhotchain.asia</span>
+                        <span class="text-center alt-font font-weight-300 d-block mb-3" style="font-size:16px">partners@globalhotchain.com</span>
                     </div>
                 </div>
                 <div class="col-md-4 p-4" >
                     <div class="shadow-lg bg-white p-5">
                         <span class="text-center alt-font text-primary font-weight-500 d-block margin-20px-bottom" style="font-size:22px;">{{ __("landing.customer_cooperation") }}</span>
-                        <span class="text-center alt-font font-weight-300 d-block mb-3" style="font-size:16px">support@globalhotchain.asia</span>
+                        <span class="text-center alt-font font-weight-300 d-block mb-3" style="font-size:16px">support@globalhotchain.com</span>
                     </div>
                 </div>
             </div>
@@ -76,16 +76,16 @@
                             <div class="mb-5">
                                 <img src="{{ asset('landing/images/image_4.png') }}" alt="">
                             </div>
-                            <div class="d-flex flex-column mb-4">
+                            {{-- <div class="d-flex flex-column mb-4">
                                 <div class="d-flex">
                                     <img src="{{ asset('landing/images/phone.svg') }}" alt="" class="mr-3">
                                     <span class="text-primary">{{ __('landing.support_hotline') }}</span>
                                 </div>
-                                {{-- <div class="d-flex">
+                                <div class="d-flex">
                                     <img src="{{ asset('landing/images/phone.svg') }}" alt="" class="mr-3" style="opacity:0">
                                     XXXXXXXXXXXXx
-                                </div> --}}
-                            </div>
+                                </div>
+                            </div> --}}
                             <div class="d-flex flex-column mb-4">
                                 <div class="d-flex">
                                     <img src="{{ asset('landing/images/location.svg') }}" alt="" class="mr-3">
