@@ -52,9 +52,9 @@
         width: 1px;
         height:70%;
         position: absolute;
-        background: #999999;
+        background: #bbb;
         left: -50px;
-        top:30px;
+        top:15%;
     }
 
     .primary-gradient {
@@ -100,7 +100,7 @@
                     </div>
                     <div class="d-flex">
                         <div class="mr-4 primary-gradient p-3 text-white" style="border-radius:50%;opacity:0;">2018</div>
-                        <div class="p-3 @if(!$i == 7) custom-line @endif" style="color:#707070;border-radius:12px;width:320px;font-weight:300;">{{ __("landing.ghc_partners_description_$i") }}</div>
+                        <div class="p-3 @if(!($i == 7)) custom-line @endif" style="color:#707070;border-radius:12px;width:320px;font-weight:300;">{{ __("landing.ghc_partners_description_$i") }}</div>
                     </div>
                 </div>
             @endfor
