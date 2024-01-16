@@ -190,7 +190,7 @@ return [
     'low_price_flash_sale' => 'Low Price Flash Sale',
     'home_blue' => 'Relying on the powerful global supply chain system of our parent company Global Hot Chain, we ensure that every product is strictly screened. We always insist on choosing the best for you.',
     'self_love_and_confidence' => 'HAPPYBUY MALL',
-    'starts_from' => 'Gathering good things from around the world, Adhere to the lowest price across the entire chain',
+    'starts_from' => 'Global Health Industry Efficient Heat Chain and Hot Commodity System Builder.',
     'the_innerself' => '',
     'erya_at_a_glance_' => 'ERYA AT A GLANCE',
     'our_essence' => 'OUR ESSENCE',

@@ -189,7 +189,7 @@ return [
     'our_vision_description' => '成为全球综合性商业平台的领军者，通过创新的供应链管理和商业服务，引领全球商业生态的发展，创造可持续的商业价值。',
     'home_blue' => '依托母公司Global Hot Chain强大的全球供应链体系 我们确保每一件商品都经过严格筛选。 我们始终坚持为您挑选最好的。',
     'self_love_and_confidence' => 'HAPPYBUY MALL',
-    'starts_from' => '汇聚全球好物，',
+    'starts_from' => '全球健康产业 高效热链、热品 体系构建者。',
     'the_innerself' => '坚持全链底价',
     'erya_at_a_glance_' => '简单介绍',
     'our_essence' => '我们的精神',
