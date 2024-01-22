@@ -190,7 +190,7 @@
                 <div class="row justify-content-center">
                     @for($i = 1; $i <= 5; $i++)
                         <div class="col-lg col-md-4 col-4 p-4 d-flex align-items-center flex-column mb-md-0 mb-5 text-center">
-                            <img src='{{ asset("landing/images/member_$i.png") }}' alt="">
+                            <img src='{{ asset("landing/images/member_$i.png") }}?1' alt="">
                             <div class="text-primary mt-2" style="font-size:20px;">{{ __("landing.member_$i") }}</div>           
                             <span class="text-center alt-font font-weight-300 d-block mb-3" style="font-size:14px;">{{ __("landing.member_description_$i") }}</span>
                         </div>
