@@ -80,6 +80,8 @@
                     <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.e_commerce_platform_1") }}</span>
                     <br>
                     <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.e_commerce_platform_2") }}</span>
+                    <br>
+                    <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.e_commerce_platform_3") }}</span>
                 </div>
             </div>
         </div>
@@ -123,7 +125,38 @@
     <section class="bg-light-yellow overlap-height wow animate__fadeIn" style="background: #fff5ef;">
         <span class="text-center title-small alt-font text-primary font-weight-300 d-block margin-50px-bottom letter-spacing-3px">{{ __('landing.ghc_partners') }}</span>
         <div class="padding-twelve-lr xl-padding-five-lr lg-padding-two-lr xs-no-padding-lr">
-            <div class="container-fluid">
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_1") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_1_1") }}</span>
+        <br>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_2") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_2_1") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_2_2") }}</span>
+        <br>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_3") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_3_1") }}</span>
+        <br>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_4") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_4_1") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_4_2") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_4_3") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_4_4") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_4_5") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_4_6") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_4_7") }}</span>
+        
+        <br>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_5") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_5_1") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_5_2") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_5_3") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_5_4") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_5_5") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_5_6") }}</span>
+        <span class="mt-2 alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.ghc_partners_5_7") }}</span>
+        
+        <br>
+        <!--    
+        <div class="container-fluid">
                 <div class="row justify-content-center">
                     @for($i = 1; $i <= 9; $i++)
                         <div class="col-md-4 col-4 p-3 d-flex align-items-center flex-column mb-md-0 mb-5 text-center">
@@ -137,6 +170,7 @@
                 </div>
             </div>
         </div>
+-->
     </section>  
 
     <section class="overlap-height wow animate__fadeIn">
