@@ -167,13 +167,13 @@
                 </div>
                 -->
             <div class="col-md-7 px-md-5 px-4" style="margin:0 auto;">
-                @for($i = 1; $i <= 5; $i++) <div style="display:flex;column-gap:2rem;margin-bottom:4rem;">
-                    <img style="width:15vw;" src={{'/landing/images/honors/'.__("landing.honor_image_$i")}} />
+                @for($i = 1; $i <= 5; $i++)
                     <div class="d-flex flex-column mb-md-0 mb-5">
+                    <img style="width:12rem;margin-bottom:1rem" src={{'/landing/images/honors/'.__("landing.honor_image_$i")}} />
                         <span class="alt-font text-primary font-weight-700 d-block letter-spacing-3px" style="font-weight:700;font-size:20px;">{{ __("landing.honor_$i") }}</span>
                         <span class="alt-font font-weight-300 d-block mb-3" style="font-size:14px;">{{ __("landing.honor_description_$i") }}</span>
                     </div>
-            </div>
+            
             @endfor
         </div>
     </div>

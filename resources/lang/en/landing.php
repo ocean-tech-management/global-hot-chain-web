@@ -15,7 +15,7 @@ return [
     'ghc' => 'GLOBAL HOT CHAIN (GHC)',
     'banner_title' => 'Builder of efficient thermal chain and hot product systems in the global health industry.',
     'about_ghc' => 'Introduction to GHC Group',
-    'about_ghc_description' => "GHC Group (Global Hot Chain) is a global health industry supply chain platform established in 2017 with an initial capital investment of $100 million, headquartered in New York, USA. GHC Group customizes efficient services for partners in the health, beauty, and household goods industries through cutting-edge technology, from high-tech product R&D and production to procurement, warehousing, transportation, and cross-border e-commerce, meeting customers' relentless pursuit of quality and innovation. GHC Group currently has multiple international-level research bases and laboratories, all equipped with advanced equipment and technology, providing solid support for GHC's R&D team.",
+    'about_ghc_description' => "GHC Group (Global Hot Chain) is a global health industry supply chain platform established in 2022 with an initial capital investment of $100 million, headquartered in New York, USA. GHC Group customizes efficient services for partners in the health, beauty, and household goods industries through cutting-edge technology, from high-tech product R&D and production to procurement, warehousing, transportation, and cross-border e-commerce, meeting customers' relentless pursuit of quality and innovation. GHC Group currently has multiple international-level research bases and laboratories, all equipped with advanced equipment and technology, providing solid support for GHC's R&D team.",
     'our_advantage' => 'Our Advantage',
     'ghc_financial_strength' => 'GHC Group’s financial strength',
     'investor_1' => 'Largest Investor',
@@ -23,7 +23,7 @@ return [
     'investor_3' => 'Walton Family',
     'investor_4' => 'Dow Inc.',
     'investor_5' => 'Peter Thiel',
-    
+
     'ghc_culture' => 'GHC Group Culture',
     'our_core' => 'Our core',
     'core_1' => 'GHC Group Positioning',
@@ -126,7 +126,7 @@ return [
     'ai_medical' => "AI Medical",
     'ai_medical_1' => "GHC Global Smart Healthcare is an innovative model that combines advanced technology with the medical field, dedicated to improving the quality, efficiency, and accessibility of medical services. It integrates artificial intelligence, big data analytics, and IoT technology.",
     'ai_medical_2' => "Annually, GHC invests over $800 million in global smart healthcare, actively promoting global integration of smart healthcare, fostering collaboration among international medical enterprises, and providing a broader space for global medical research and innovation.",
-    
+
     'chain_business' => "Chain Formats",
     'chain_business_1' => "Health Living Experience Centers",
     'chain_business_2' => "Beauty and Skincare Salons",
@@ -165,8 +165,43 @@ return [
     'ghc_physical_store_2' => "Beauty and Skincare Salons",
     'ghc_physical_store_3' => "Home Life Centers (Future Outlook)",
 
-    'investment_relation' => "Group Development",
+    'investment_relation' => "Group Development Plan",
     'ghc_structure' => "GHC Group Structure",
+
+    'ghc_partners_year_6' => '2022',
+    'ghc_partners_title_6' => 'The group was founded on the original intention',
+    'ghc_partners_description_6' => 'GHC Group came into being and established its corporate mission of focusing on the research and development of great health products, laying a solid foundation for subsequent product development and market layout. Achieved turnover of US$800 million that year. ',
+    'ghc_partners_year_7' => '2023',
+    'ghc_partners_title_7' => 'Market breakthrough, product innovation and diversification',
+    'ghc_partners_description_7' => 'GHC Group launched the revolutionary "Pioneer in the Graphene Industry" high-tech product series and established a Graphene Research Institute in Germany. With its unique health concept and excellent product quality, it quickly occupied the market. ',
+    'ghc_partners_description_7_1' => 'GHC Group launched the revolutionary "Pioneer in the Graphene Industry" high-tech product series and established a Graphene Research Institute in Germany. With its unique health concept and excellent product quality, it quickly occupied the market. ',
+
+    'ghc_partners_year_8' => '2024',
+    'ghc_partners_title_8' => 'Continuous Innovation and Outlook',
+    'ghc_partners_description_8' => 'The group has added 5 new regional/national markets: Dubai, United Arab Emirates, Hong Kong, Thailand, Malaysia, and Europe, and has opened 30,000+ stores worldwide. These products will not only consolidate the group\'s leading position in the industry, but also drive the group to provide more healthy living solutions to global consumers in the future. ',
+    'ghc_partners_year_9' => '2025',
+    'ghc_partners_title_9' => 'R&D investment and international market expansion',
+    'ghc_partners_description_9' => 'GHC Group plans to increase its R&D budget to US$1 billion in 2024. This significant increase will focus on innovative research in cutting-edge fields such as graphene technology and health technology. Through this strategic investment, the group aims to ensure the continuous updating of product lines, enhance market competitiveness, and lay the foundation for future technological breakthroughs. The group will launch an expansion plan for emerging markets, especially in Asia and Africa, by establishing localized sales and service networks to increase the brand\'s visibility and market share in these regions. ',
+    'ghc_partners_extra_9' => [
+        'Added 10,000+ offline chain stores',
+        'Establishing direct warehousing factories in 16 countries around the world',
+        'Built 12+ global physical factories',
+        '$5 billion turnover',
+        '10 million+ members',
+        'Start preparations for listing on Nasdaq in the United States'
+    ],
+    'ghc_partners_year_10' => '2026',
+    'ghc_partners_title_10' => 'Business model exploration and continuous research and development and market expansion',
+    'ghc_partners_description_10' => 'GHC Group will actively explore and implement new business models, especially in the fields of Internet of Things and artificial intelligence, and seek integration and development with existing businesses to meet future market needs with innovative products and services. During this year, the Group will continue to increase investment in research and development, while further consolidating and expanding market share in emerging markets where it has achieved initial success, and exploring new international market opportunities. ',
+    'ghc_partners_extra_10' => [
+        'Added 30,000+ offline chain stores',
+        '38 new direct warehousing factories have been added globally',
+        'Added 30+ global physical factories',
+        '$60 billion turnover',
+        '50 million+ members',
+        'Completed the listing of 10 national subsidiaries on Nasdaq'
+    ],
+    /*
     'ghc_partners_year_1' => "2017",
     'ghc_partners_title_1' => "Group Establishment and Initial Intent",
     'ghc_partners_description_1' => "GHC Group was born, establishing its mission to focus on the development of health products, laying a solid foundation for subsequent product R&D and market layout. The group achieved a turnover of $800 million that year.",
@@ -220,15 +255,15 @@ return [
         'Aiming for over 50 million members',
         'Completing the NASDAQ listing process for 10 of our country subsidiaries',
     ],
-
+    */
     'job_offer' => "Job Offers",
-    'supplier_cooperation' => "Supplier Cooperation", 
+    'supplier_cooperation' => "Supplier Cooperation",
     'customer_cooperation' => "Customer Cooperation",
     'leave_message' => "Leave a Message Online",
     'support_hotline' => "Consultation Hotline",
     'contact_address' => "Contact Address",
     'footer_description' => "GHC Group (Global Hot Chain) is a global health industry supply chain platform established in 2022, with an initial investment of $100 million, headquartered in New York, USA.",
-    
+
 
 
     'about_below_one' => 'More than 8',
@@ -401,4 +436,3 @@ return [
     'download_now_one' => 'Download the APP now,',
     'download_now_two' => 'and enjoy our products and services!',
 ];
-
