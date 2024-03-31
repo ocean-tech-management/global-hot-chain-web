@@ -102,8 +102,10 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 @for($i = 1; $i <= 3; $i++) <div class="col-md-4 d-flex align-items-center flex-column mb-md-0 mb-5 text-center">
-                    <img src='{{ asset("landing/images/core_$i.svg") }}' alt="">
-                    <span class="text-center alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.core_$i") }}</span>
+                <div style="width:4rem;height:4rem">    
+                <img src='{{ asset("landing/images/core_$i.svg") }}' alt="">
+                </div>    
+                <span class="text-center alt-font font-weight-300 d-block mb-3 letter-spacing-3px" style="font-size:20px;">{{ __("landing.core_$i") }}</span>
                     <span style="font-size:2rem;padding:0 30px;" class="text-center alt-font text-primary font-weight-300 d-block margin-50px-bottom letter-spacing-3px">{{ __("landing.core_description_$i") }}</span>
             </div>
             @endfor

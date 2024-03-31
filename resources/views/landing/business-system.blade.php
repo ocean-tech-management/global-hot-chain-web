@@ -68,7 +68,7 @@
         <div class="row align-items-center">
             <div class="col-md-5 mb-5 mb-md-0">
                 <div class="d-flex justify-content-center">
-                    <img src="{{ asset('landing/images/phone.png') }}" alt="" class="col-md-10 col-6">
+                    <img src="{{ asset('landing/images/phone2.png') }}" alt="" class="col-md-10 col-6">
                 </div>
             </div>
             <div class="col-md-5 d-flex d-md-block justify-content-center flex-column text-center text-md-left px-5">
