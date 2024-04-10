@@ -31,7 +31,7 @@ return [
     'core_3' => 'GHC Group Vision',
     'core_description_1' => 'One-stop global hot product supply chain.',
     'core_description_2' => 'Stimulating the global consumer economic chain.',
-    'core_description_3' => 'Let there be no difficult entity in the world.',
+    'core_description_3' => 'To make the world free of difficult enterprises.',
 
     'ghc_group_value' => 'GHC Group Values',
     'value_1' => 'Integrity',
@@ -55,7 +55,7 @@ return [
     'achievement_description_4' => 'Company Valuation',
 
     'ghc_strength' => 'GHC Group Strength',
-    'strength_1' => '2000+ million families',
+    'strength_1' => '20+ million families',
     'strength_2' => '2000+',
     'strength_3' => '200+',
     'strength_4' => '$1 billion',
@@ -115,19 +115,19 @@ return [
     'core_business_and_services' => "GHC Group's Core Business and Services",
     'core_business_and_services_1' => "Happy Buy E-commerce Platform",
     'core_business_and_services_2' => "AI Healthcare",
-    'core_business_and_services_3' => "Chain Store Format",
+    'core_business_and_services_3' => "Chain Stores",
 
-    'e_commerce_platform' => "E-commerce Platform Happy Buy",
+    'e_commerce_platform' => "E-commerce Platform - Happy Buy",
     'e_commerce_platform_1' => "Provides a one-stop shopping experience for global consumers. The platform focuses on health care products, household essentials, and beauty and cosmetics.",
     'e_commerce_platform_2' => "Through a convenient, secure, and enjoyable shopping process, it meets consumers' pursuit of a high-quality lifestyle.",
-    'e_commerce_platform_3' => "HappyBuy. The more you buy, the happier you are. The more you buy, the livelier you are. The more you buy, the richer you are!",
+    'e_commerce_platform_3' => "Buy happier, live happier, and be richer!",
 
 
     'ai_medical' => "AI Medical",
     'ai_medical_1' => "GHC Global Smart Healthcare is an innovative model that combines advanced technology with the medical field, dedicated to improving the quality, efficiency, and accessibility of medical services. It integrates artificial intelligence, big data analytics, and IoT technology.",
     'ai_medical_2' => "GHC is expected to invest $800 million in global smart healthcare every year, actively promoting global integration of smart healthcare, fostering collaboration among international medical enterprises, and providing a broader space for global medical research and innovation.",
 
-    'chain_business' => "Chain Formats",
+    'chain_business' => "Chain Stores",
     'chain_business_1' => "Health Living Experience Centers",
     'chain_business_2' => "Beauty and Skincare Salons",
     'chain_business_3' => "Home Life Centers (Future Outlook)",

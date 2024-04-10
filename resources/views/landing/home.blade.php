@@ -118,11 +118,12 @@
     <span class="text-center title-small alt-font text-primary font-weight-300 d-block margin-50px-bottom letter-spacing-3px">{{ __('landing.ghc_group_value') }}</span>
     <div class="padding-twelve-lr xl-padding-five-lr lg-padding-two-lr xs-no-padding-lr">
         <div class="container-fluid">
-            <div class="row justify-content-center">
-                @for($i = 1; $i <= 9; $i++) <div class="col-md-4 col-4 p-3 d-flex align-items-center flex-column mb-md-0 mb-5 text-center">
+            <div class="row">
+                @for($i = 1; $i <= 9; $i++) 
+                <div class="col-md-6 col-6 p-2 d-flex align-items-center flex-column mb-md-0 mb-5 text-center">
                     <img src='{{ asset("landing/images/value_$i.svg") }}' alt="">
                     <div class="mt-2" style="font-size:20px;">{{ __("landing.value_$i") }}</div>
-            </div>
+                </div>
             @endfor
         </div>
     </div>
